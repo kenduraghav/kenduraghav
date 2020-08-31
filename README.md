@@ -1,6 +1,3 @@
-
-### Hi there 👋  I am Raghavendran S
-
 > யாதும் ஊரே யாவரும் கேளிர்<br/>
 > தீதும் நன்றும் பிறர்தர வாரா
 >
@@ -8,6 +5,8 @@
 
 
 > All is Well!!! :heart_eyes:
+
+### Hi there 👋  I am Raghavendran S
 
 - 🔭 I’m currently working as Java Developer.
 - 🌱 In my pass-time, I am experimenting with ReactJS, Clean code, Applying Design patterns.
