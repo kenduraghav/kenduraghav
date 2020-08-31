@@ -7,8 +7,7 @@
 >  -- <cite>கணியன் பூங்குன்றனார்</cite>
 
 
-> All is Well!  
-> :simple_smile: :simple_smile:
+> All is Well!!! :heart_eyes:
 
 - 🔭 I’m currently working as Java Developer.
 - 🌱 In my pass-time, I am experimenting with ReactJS, Clean code, Applying Design patterns.
