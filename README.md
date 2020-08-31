@@ -36,7 +36,7 @@ Here are some ideas to get you started:
       * :evergreen_tree:  
    - Coffee Lover :coffee:
    - Tamil Poem writings
-   - Tamil
+   - Tamil Language
 
 <!-- Icons -->
 
