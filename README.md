@@ -13,16 +13,10 @@
 - 📫 You can reach me through: [![Twitter][1.2]][1], or [![LinkedIn][2.2]][2]
 - ⚡ Fun fact: I'm interested in 
   - Travel 
-  - Wildlife
-      * :elephant:  
-      * :dolphin:  
-      * :leopard:  
-      * :milky_way:  
-      * :earth_africa:  
-      * :evergreen_tree:  
-   - Coffee Lover :coffee:
-   - Tamil Poem writings
-   - Tamil Language
+  - Wildlife  :elephant:  :dolphin:  :leopard:  :milky_way: :earth_africa: :evergreen_tree:       
+  - Coffee Lover :coffee:
+  - Tamil Poem writings
+  - Tamil Language
 
 <!-- Icons -->
 
