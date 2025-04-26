@@ -28,13 +28,18 @@
 
 [1]: https://twitter.com/kenduraghav
 [2]: https://www.linkedin.com/in/raghavendran-karthik/
- 
- 
- [![My Github stats](https://github-readme-stats.vercel.app/api?username=kenduraghav&show_icons=true&hide=contribs,prs&layout=compact)](https://github.com/kenduraghav/github-readme-stats)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenduraghav&layout=donut)](https://github.com/kenduraghav/github-readme-stats)
+<a href="https://github.com/kenduraghav/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kenduraghav&show_icons=true&hide=contribs,prs&layout=compact" />
+</a>
+<a href="https://github.com/kenduraghav/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kenduraghav&layout=compact&langs_count=8&card_width=320" />
+</a>
  
- <!--
+<!-- [![My Github stats](https://github-readme-stats.vercel.app/api?username=kenduraghav&show_icons=true&hide=contribs,prs&layout=compact)](https://github.com/kenduraghav/github-readme-stats) 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenduraghav&layout=compact&lang_count=8)](https://github.com/kenduraghav/github-readme-stats)
+ 
+ 
 **kenduraghav/kenduraghav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
