@@ -29,13 +29,22 @@
 [1]: https://twitter.com/kenduraghav
 [2]: https://www.linkedin.com/in/raghavendran-karthik/
 
-<a href="https://github.com/kenduraghav/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kenduraghav&show_icons=true&hide=contribs,prs&layout=compact&card_width=320" />
+<!--<a href="https://github.com/kenduraghav/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kenduraghav&show_icons=true&hide=contribs,prs&layout=compact&card_width=300" />
 </a>
 <a href="https://github.com/kenduraghav/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kenduraghav&layout=compact&langs_count=8&card_width=320" />
-</a>
- 
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kenduraghav&layout=compact&langs_count=8&card_width=300" />
+</a> -->
+
+
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kenduraghav&show_icons=true&count_private=true&layout=compact" alt="GitHub Stats" width="400">
+
+  <!-- Top Language Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenduraghav&layout=compact" alt="Top Language" width="400">
+</div>
+
 <!-- [![My Github stats](https://github-readme-stats.vercel.app/api?username=kenduraghav&show_icons=true&hide=contribs,prs&layout=compact)](https://github.com/kenduraghav/github-readme-stats) 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenduraghav&layout=compact&lang_count=8)](https://github.com/kenduraghav/github-readme-stats)
  
