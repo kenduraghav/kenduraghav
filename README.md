@@ -30,7 +30,9 @@
 [2]: https://www.linkedin.com/in/raghavendran-karthik/
  
  
- [![My Github stats](https://github-readme-stats.vercel.app/api?username=kenduraghav&hide=contribs,prs&layout=compact)](https://github.com/kenduraghav/github-readme-stats)
+ [![My Github stats](https://github-readme-stats.vercel.app/api?username=kenduraghav&show_icons=true&hide=contribs,prs&layout=compact)](https://github.com/kenduraghav/github-readme-stats)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenduraghav&layout=donut)](https://github.com/kenduraghav/github-readme-stats)
  
  <!--
 **kenduraghav/kenduraghav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
