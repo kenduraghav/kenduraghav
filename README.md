@@ -1,12 +1,3 @@
-<!--  யாதும் ஊரே யாவரும் கேளிர்<br/>
-> தீதும் நன்றும் பிறர்தர வாரா
->
->  -- <cite>கணியன் பூங்குன்றனார்</cite>
-
-
-> All is Well!!! :heart_eyes:
--->
-
 ### Hi there 👋  I am Raghavendran S
 
 - 🔭 I’m currently working as Java Developer.
