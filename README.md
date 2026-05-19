@@ -27,8 +27,7 @@
 
 ## My GitHub Stats
 
-![Stats](./github-readme-stats/stats.svg)
-![Top Languages](./github-readme-stats/top-langs.svg)
+![Stats](./profile/stats.svg)
 
 
 <div style="justify-content: space-between; align-items: center; gap: 20px;">
