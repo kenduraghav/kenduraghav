@@ -31,15 +31,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kenduraghav&show_icons=true&count_private=true&layout=compact" alt="GitHub Stats" width="400" style="height: 200px; object-fit: cover;">
 
   <!-- Top Language Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenduraghav&layout=compact" alt="Top Language" width="400" style="height: 200px; object-fit: cover;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kenduraghav&layout=compact" alt="Top Language" width="400" style="height: 200px; object-fit: cover;">
 </div>
 
-[![My Github stats](https://github-readme-stats.vercel.app/api?username=kenduraghav&show_icons=true&hide=contribs,prs&layout=compact)](https://github.com/kenduraghav/github-readme-stats) 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenduraghav&layout=compact&lang_count=8)](https://github.com/kenduraghav/github-readme-stats)
+
 
 <!-- 
  
- 
+ [![My Github stats](https://github-readme-stats.vercel.app/api?username=kenduraghav&show_icons=true&hide=contribs,prs&layout=compact)](https://github.com/kenduraghav/github-readme-stats) 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenduraghav&layout=compact&lang_count=8)](https://github.com/kenduraghav/github-readme-stats)
 **kenduraghav/kenduraghav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
