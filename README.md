@@ -25,6 +25,11 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kenduraghav&layout=compact&langs_count=8&card_width=300" />
 </a> -->
 
+## My GitHub Stats
+
+![Stats](./github-readme-stats/stats.svg)
+![Top Languages](./github-readme-stats/top-langs.svg)
+
 
 <div style="justify-content: space-between; align-items: center; gap: 20px;">
   <!-- GitHub Stats Card -->
