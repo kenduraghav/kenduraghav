@@ -1,7 +1,7 @@
 ### Hi there 👋  I am Raghavendran S
 
 - 🔭 I’m currently working as Java Developer.
-- 🌱 In my pass-time, I am experimenting with ReactJS, Clean code, Applying Design patterns.
+- 🌱 In my pass-time, I am experimenting with Kotlin, Clean code, Applying Design patterns.
 - 📫 You can reach me through: [![Twitter][1.2]][1], or [![LinkedIn][2.2]][2]
 - ⚡ Fun fact: I'm interested in 
   - Travel 
